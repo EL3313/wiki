@@ -50,7 +50,7 @@ y después la instalación como tal:
 
 Deberá aceptar la instalación de los _cable drivers_:
 
-![drivers](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/drivers)
+![drivers](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/drivers.png)
 
 Una vez realizada la instalación deberá agregar el archivo de descripción de la tarjeta Basys 3. Para ello podrá seguir la [guía provista por Digilent](https://digilent.com/reference/programmable-logic/guides/install-board-files#:~:text=Digilent%20provides%20board%20files%20for%20each%20FPGA%20development,and%20Memory%20Interface%20Generator%29%20used%20in%20many%20designs)
 
