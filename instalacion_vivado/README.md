@@ -30,27 +30,27 @@ En la siguiente ventana deberá seleccionar lo que se instalará. Para ahorar es
 
 En la siguiente ventana deberá seleccionar dónde se instalará todo. Se recomienda: 'C:\Xilinx'. Cualquier otra ruta puede funcionar **siempre y cuando NO contenga espacios**.
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081621.png)
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/location.png)
 
 Deberá aceptar la creación del directorio de destino.
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081639.png)
+![folder](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/folder.png)
 
 Resumen de la instalación a realizar.
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081650.png)
+![sumary](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/sumary.png)
 
 Una vez presionado el botón de _Install_ la instalación iniciará. Primero se descargará todo lo necesario:
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 082643.png)
+![downloading](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/downloading.png)
 
 y después la instalación como tal:
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 084714.png)
+![installation](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/installation.png)
 
 Deberá aceptar la instalación de los _cable drivers_:
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 085856.png)
+![drivers](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/drivers)
 
 Una vez realizada la instalación deberá agregar el archivo de descripción de la tarjeta Basys 3. Para ello podrá seguir la [guía provista por Digilent](https://digilent.com/reference/programmable-logic/guides/install-board-files#:~:text=Digilent%20provides%20board%20files%20for%20each%20FPGA%20development,and%20Memory%20Interface%20Generator%29%20used%20in%20many%20designs)
 
@@ -58,11 +58,11 @@ Esto le permitirá, al momento de crear un proyecto, escoger una configuración 
 
 Antes:
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 090323.png)
+![antes](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/antes.png)
 
 Después: 
 
-![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 091024.png)
+![despues](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/despues.png)
 
 
 
