@@ -6,8 +6,59 @@ Para descargar Vivado 2019.1, primero necesitará crear una cuenta en AMD-Xilinx
 
 Una vez que cuente con el ejecutable, e.g. `Xilinx_Vivado_SDK_Web_2019.1_0524_1430_Win64.exe` para Windows, deberá procer a ejecutarlo y es probable que le aparezca la siguiente ventana:
 
-![Nueva versión](new_version.png)
+![new version](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/new_version.png)
 
+Omita el obtener la última versión y continue con la isntalación. Una vez que de clik a Continuar verá una ventana como la siguiente, la cuál simplemente resume los sistemas operativos soportados oficialmente para esta versión de Vivado.
+
+![welcome_screen](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081027.png)
+
+Después de dar click en Continuar, deberá ingresar sus credenciales creadas para AMD-Xilinx, _User ID_ y _Password_, y seleccionar la opción de _Download and Install Now_
+
+![credentials](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081252.png)
+
+Después, deberá aceptar todos los términos y condiciones, y dar click en Continuar.
+
+![terms](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081311.png)
+
+En la siguiente ventana deberá seleccionar lo que se instalará. Para ahorar espacio en el disco duro, se recomienda la selección que se muestra a continuación. Con el _7 Series_ seleccionado se tendrá el soporte para el Artix-7 que está presente en la Basys 3. Asegúrese de habilitar la instalación de los controladores, _cable drivers_, así como habilitar el _WebTalk_. Con las opciones anteriores se requiere poco menos de 23 GB.
+
+![selecction](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081439.png)
+
+En la siguiente ventana deberá seleccionar dónde se instalará todo. Se recomienda: 'C:\Xilinx'. Cualquier otra ruta puede funcionar **siempre y cuando NO contenga espacios**.
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081621.png)
+
+Deberá aceptar la creación del directorio de destino.
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081639.png)
+
+Resumen de la instalación a realizar.
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081650.png)
+
+Una vez presionado el botón de _Install_ la instalación iniciará. Primero se descargará todo lo necesario:
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 082643.png)
+
+y después la instalación como tal:
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 084714.png)
+
+Deberá aceptar la instalación de los _cable drivers_:
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 085856.png)
+
+Una vez realizada la instalación deberá agregar el archivo de descripción de la tarjeta Basys 3. Para ello podrá seguir la [guía provista por Digilent](https://digilent.com/reference/programmable-logic/guides/install-board-files#:~:text=Digilent%20provides%20board%20files%20for%20each%20FPGA%20development,and%20Memory%20Interface%20Generator%29%20used%20in%20many%20designs)
+
+Esto le permitirá, al momento de crear un proyecto, escoger una configuración que se ajusta a la Basys 3.
+
+Antes:
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 090323.png)
+
+Después: 
+
+![location](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 091024.png)
 
 
 
