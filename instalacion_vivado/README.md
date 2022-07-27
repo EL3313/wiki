@@ -6,7 +6,7 @@ Para descargar Vivado 2019.1, primero necesitará crear una cuenta en AMD-Xilinx
 
 Una vez que cuente con el ejecutable, e.g. `Xilinx_Vivado_SDK_Web_2019.1_0524_1430_Win64.exe` para Windows, deberá procer a ejecutarlo y es probable que le aparezca la siguiente ventana:
 
-![Nueva versión](./fig/new-version.png)
+![Nueva versión](new_version.png)
 
 
 
