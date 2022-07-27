@@ -10,19 +10,23 @@ Una vez que cuente con el ejecutable, e.g. `Xilinx_Vivado_SDK_Web_2019.1_0524_14
 
 Omita el obtener la última versión y continue con la isntalación. Una vez que de clik a Continuar verá una ventana como la siguiente, la cuál simplemente resume los sistemas operativos soportados oficialmente para esta versión de Vivado.
 
-![welcome_screen](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081027.png)
+![welcome_screen](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/welcome_screen.png)
 
 Después de dar click en Continuar, deberá ingresar sus credenciales creadas para AMD-Xilinx, _User ID_ y _Password_, y seleccionar la opción de _Download and Install Now_
 
-![credentials](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081252.png)
+![credentials](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/credentials.png)
 
 Después, deberá aceptar todos los términos y condiciones, y dar click en Continuar.
 
-![terms](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081311.png)
+![terms](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/terms.png)
+
+La versión que no require una licencia de paga es la WebPACK.
+
+![webpack](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/webpack.png)
 
 En la siguiente ventana deberá seleccionar lo que se instalará. Para ahorar espacio en el disco duro, se recomienda la selección que se muestra a continuación. Con el _7 Series_ seleccionado se tendrá el soporte para el Artix-7 que está presente en la Basys 3. Asegúrese de habilitar la instalación de los controladores, _cable drivers_, así como habilitar el _WebTalk_. Con las opciones anteriores se requiere poco menos de 23 GB.
 
-![selecction](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/Captura de pantalla 2022-07-20 081439.png)
+![selecction](https://raw.githubusercontent.com/EL3313/wiki/main/instalacion_vivado/fig/selecction.png)
 
 En la siguiente ventana deberá seleccionar dónde se instalará todo. Se recomienda: 'C:\Xilinx'. Cualquier otra ruta puede funcionar **siempre y cuando NO contenga espacios**.
 
